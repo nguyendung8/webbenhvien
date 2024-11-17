@@ -50,7 +50,7 @@
 
          <div class="user-box" style="z-index: 100;">
             <p>Email : <span><?php echo $_SESSION['doctor_email']; ?></span></p>
-            <a href="change_password.php" class="changepw-btn">Đổi mật khẩu</a>
+            <a href="change_password_doctor.php" class="changepw-btn">Đổi mật khẩu</a>
             <a style="margin-top: 13px;" href="logout.php" class="delete-btn">Đăng xuất</a>
          </div>
       </div>
